@@ -8,10 +8,21 @@ namespace ConsoleAppOOPWorkShop.Models.Data
     {
         string firstName = string.Empty;
         string lastName = string.Empty;
-        int userID = 0;
-        int age = 0;
-        int strikes = 0;       
+        int userID;
+        DateTime birthDate;
+        int strikes;
         bool activeLoans = false;
+        bool suspended = false;
         List<Loan> loans = new List<Loan>();
+        //adressInfo
+        //phone
+        //email
+
+        public User(string firstName, string lastName, DateTime birthDate)
+        {
+            this.firstName = firstName;
+            this.lastName = lastName;
+            this.birthDate = birthDate;
+        }
     }
 }
