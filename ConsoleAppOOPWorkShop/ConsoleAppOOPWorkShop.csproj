@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Models\Data\" />
     <Folder Include="Models\Service\" />
     <Folder Include="Models\Repo\" />
   </ItemGroup>

@@ -5,10 +5,10 @@ namespace ConsoleAppOOPWorkShop
 {
     /*
     group A - Auther
-    - Sara
+    - Sara 
     - Åsa
-    - Rashin
-    - Samuel
+    - Rashin hi
+    - Samuel 
     - Navya
 
     group B - User
