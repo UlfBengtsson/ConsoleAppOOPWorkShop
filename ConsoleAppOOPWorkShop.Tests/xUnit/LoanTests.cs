@@ -3,12 +3,12 @@ using Xunit;
 
 namespace ConsoleAppOOPWorkShop.Tests
 {
-    public class LoanTest1
+    public class LoanTests
     {
         [Fact]
         public void Test1()
         {
-
+            
         }
     }
 }

@@ -3,7 +3,7 @@ using Xunit;
 
 namespace ConsoleAppOOPWorkShop.Tests
 {
-    public class AutherTests
+    public class UserTests
     {
         [Fact]
         public void Test1()
